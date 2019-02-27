@@ -1,13 +1,14 @@
 {
     "id": "org.kde.katomic",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "katomic",
     "rename-icon": "katomic",
     "finish-args": [
+        "--require-version=0.10.2",
         "--share=ipc",
-        "--socket=x11",
+        "--socket=fallback-x11",
         "--socket=wayland",
         "--socket=pulseaudio",
         "--share=network",
@@ -17,23 +18,23 @@
         {
             "name": "libkdegames",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
-                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
-                } 
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/applications/18.12.2/src/libkdegames-18.12.2.tar.xz",
+                    "sha256": "ec20e57eeeab9a8ee7737d0c7c8c5d6c84e060393d96a37372368d7f1a9e5843"
+                }
             ]
         },
         {
             "name": "katomic",
             "buildsystem": "cmake-ninja",
             "sources": [
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/katomic-18.12.0.tar.xz",
-                    "sha256": "1f3376ce8c63edfd790fd49926a8d139b99f59a994a8ffe888f5c37bcf7a77a0"
-                } 
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/applications/18.12.2/src/katomic-18.12.2.tar.xz",
+                    "sha256": "d25749548ee8496636e9505622537c8cec9d7c11213198f3fd190d91ee4c6f4e"
+                }
             ]
         }
     ]
