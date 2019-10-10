@@ -1,7 +1,7 @@
 {
     "id": "org.kde.katomic",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.12",
+    "runtime-version": "5.13",
     "sdk": "org.kde.Sdk",
     "command": "katomic",
     "rename-icon": "katomic",
@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/applications/19.08.1/src/libkdegames-19.08.1.tar.xz",
-                    "sha256": "1b365627bd0a3a42a32a0a8d401b53d2ac09f0f9cf040b4b0483c5574991b774"
+                    "url": "https://download.kde.org/stable/applications/19.08.2/src/libkdegames-19.08.2.tar.xz",
+                    "sha256": "83456cec44502a1f79c0be00c983090e32fd8aea5fec1461fbfbd37b5f8866ac"
                 }
             ]
         },
@@ -32,8 +32,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/applications/19.08.1/src/katomic-19.08.1.tar.xz",
-                    "sha256": "05453f2a1cba1a9bb7c558e9628361685d9b9b44fc4d65599eb05fec6ca3bd5d"
+                    "url": "https://download.kde.org/stable/applications/19.08.2/src/katomic-19.08.2.tar.xz",
+                    "sha256": "822963024107e122a3f53f55ae6863a10d92ca59eef5966cded6c9daf5f989b3"
                 }
             ]
         }
