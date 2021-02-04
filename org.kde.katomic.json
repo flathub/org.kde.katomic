@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/20.12.1/src/libkdegames-20.12.1.tar.xz",
-                    "sha256": "cf9e09a7248038b60d60a0b7db394963b9294a704fad32946e5eca8ed224c4ff"
+                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/libkdegames-20.12.2.tar.xz",
+                    "sha256": "19d93fe25f1ea5173d5130b2d270038b26e6cc6f09238724f330d05fbe019439"
                 }
             ]
         },
@@ -32,8 +32,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/20.12.1/src/katomic-20.12.1.tar.xz",
-                    "sha256": "2d1664a62584a24535f444548718fbfcf6ef8d5cc1b00b6979a986d61a9f4597"
+                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/katomic-20.12.2.tar.xz",
+                    "sha256": "d4fd9d3eb73bf6c2ab735343b28b6038859fec376dc8d7fe5863e8984037b0eb"
                 }
             ]
         }
