@@ -38,8 +38,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.1/src/katomic-23.04.1.tar.xz",
-                    "sha256": "5ff675c1e768c94843fd5d6527ab08ac5d33724d6771d6aa84f4891db04fc3a8",
+                    "url": "https://download.kde.org/stable/release-service/23.04.2/src/katomic-23.04.2.tar.xz",
+                    "sha256": "a4c8513c8b81667eadccbca598e8e8a32f1ef1b0c9002fa66faa5a6768293338",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
