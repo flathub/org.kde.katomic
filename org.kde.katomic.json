@@ -1,7 +1,7 @@
 {
     "id": "org.kde.katomic",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-23.08",
+    "runtime-version": "6.6",
     "sdk": "org.kde.Sdk",
     "command": "katomic",
     "rename-icon": "katomic",
@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/libkdegames-23.08.5.tar.xz",
-                    "sha256": "0ac583f4327d6003782054a9ee3d51c922bcdf04577a3f7f12b3840cabf2efed",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/libkdegames-24.02.0.tar.xz",
+                    "sha256": "3d113422dc654348b2025de5fe1de256d06a3c55be9c7b104253e25595b2e2b1",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -38,8 +38,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/katomic-23.08.5.tar.xz",
-                    "sha256": "0db2db3d1ab4e69e5ae0223001792615af12a3c2a37ca8c1cfef373fc741ac42",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/katomic-24.02.0.tar.xz",
+                    "sha256": "1c200350f1edb86049086a62f3eaf435910e9aa5ce7e29cc85a9c480272008fe",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
