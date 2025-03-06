@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.12.2/src/libkdegames-24.12.2.tar.xz",
-                    "sha256": "b3129c537c44d8bbd3ad87c272044efa5c164cae1f56e8fd54a50e7a6c7773da",
+                    "url": "https://download.kde.org/stable/release-service/24.12.3/src/libkdegames-24.12.3.tar.xz",
+                    "sha256": "d640d5a590450e476e903a341e916004a46ad72d0db07f4201e75e4e5a7c02e5",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -38,8 +38,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.12.2/src/katomic-24.12.2.tar.xz",
-                    "sha256": "b5beb827a02d0d5174857784460ecae0c5eb69f04051a6c6afd6e68beb5a808c",
+                    "url": "https://download.kde.org/stable/release-service/24.12.3/src/katomic-24.12.3.tar.xz",
+                    "sha256": "99a20cc9576a31325ddace24ce478b52b720429f2f082cf2f53c0c09ced4e496",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
