@@ -6,13 +6,18 @@
     "command": "katomic",
     "rename-icon": "katomic",
     "finish-args": [
+        "--device=dri",
         "--require-version=0.10.2",
         "--share=ipc",
-        "--socket=fallback-x11",
-        "--socket=wayland",
-        "--socket=pulseaudio",
         "--share=network",
-        "--device=dri"
+        "--socket=fallback-x11",
+        "--socket=pulseaudio",
+        "--socket=wayland"
+    ],
+    "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/share/qlogging-categories6"
     ],
     "modules": [
         {
